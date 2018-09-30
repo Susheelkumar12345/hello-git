@@ -1,8 +1,8 @@
 #Q.1-print something
-print('isro')
+print('world')
 #Q.2-concatinate strings
 str1='hello'
-str2='python'
+str2='acadview'
 str1+str2
 #Q.3-Take the input of 3 variables x, y and z . Print their values on screen
 x=int(input('Enter value of x:'))
