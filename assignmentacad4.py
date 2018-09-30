@@ -2,13 +2,13 @@
 
 #Q.1- Reverse the whole lst using list methods.
 
-lst=['isro','nasa',10,34,'esa']
+lst=['isro','nasa',10,34,'spacex']
 lst.reverse()
 print(lst)
 
 #Q.2- Print all the uppercase letters from a string.
 
-s=("My name is Khan")
+s=("My name is Susheel")
 for i in s:
     if i==i.upper():
         print(i,end=',')
